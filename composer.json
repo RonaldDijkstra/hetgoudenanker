@@ -45,6 +45,11 @@
     "roave/security-advisories": "dev-latest",
     "laravel/pint": "^1.18"
   },
+  "autoload": {
+    "psr-4": {
+      "Custom\\Plugin\\": "web/app/plugins/custom-plugin/includes/"
+    }
+  },
   "config": {
     "optimize-autoloader": true,
     "preferred-install": "dist",

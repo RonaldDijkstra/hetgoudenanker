@@ -1,6 +1,6 @@
 # Application
 web/app/plugins/*
-!web/app/plugins/custom-admin
+!web/app/plugins/custom-plugin
 !web/app/plugins/.gitkeep
 web/app/mu-plugins/*/
 web/app/themes/twentytwentyfive/
