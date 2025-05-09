@@ -11,9 +11,6 @@
  * @package         Custom_Plugin
  */
 
-use Custom\Plugin\Base\Activate;
-use Custom\Plugin\Base\Deactivate;
-
 // If this file is called directly, abort!
 defined('ABSPATH') or die("You can't access this file directly.");
 

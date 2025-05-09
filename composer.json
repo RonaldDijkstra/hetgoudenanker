@@ -47,7 +47,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Custom\\Plugin\\": "web/app/plugins/custom-plugin/includes/"
+      "Custom\\Plugin\\": "web/app/plugins/custom-plugin/includes/",
+      "Custom\\Blocks\\": "web/app/plugins/custom-blocks/includes/"
     }
   },
   "config": {
